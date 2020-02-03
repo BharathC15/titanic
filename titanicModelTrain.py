@@ -1,3 +1,5 @@
+# A simple code to train LogisticRegression model with only the train data from the titanic dataset
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
